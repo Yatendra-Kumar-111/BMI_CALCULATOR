@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI_CALCULATOR</string>
+
+    <string name="str_bmi">Your BMI is : </string>
+    <string name="str_bmi_btn">BMI</string>
+    <string name="str_owner">Yatendra Kumar</string>
+    <string name="str_heading">---BMI CALCULATOR---</string>
+    <string name="str_hei">Enter Your Height (in Cm) : </string>
+    <string name="str_wei">Enter Your Weight (in Kg) : </string>
+
+
+</resources>
